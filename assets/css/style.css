@@ -659,6 +659,11 @@ input::-ms-input-placeholder {
 .head_title{
     margin-bottom:90px;
 }
+
+.head_title-60{
+    margin: bottom 50px;
+}
+
 .head_title h3{
     color:#413d4b;
 }
@@ -667,7 +672,7 @@ input::-ms-input-placeholder {
 }
 /*home section*/
 .home{
-    background: url(../images/homebg.jpg) no-repeat center center;
+    background: url(../images/helados.jpg) no-repeat center center;
     background-size: cover;
 }
 .home_skew_border{
@@ -1507,6 +1512,14 @@ li .single_team_text p{
 
 }
 
+
+/*Extra Styles*/
+
+.navbar-brand {
+  color: #ffffff !important;
+  font-size: 22px;
+  padding: 1rem;
+}
 
 
 
